@@ -1,0 +1,10 @@
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\bin\Debug\BTTuan04.exe.config
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\bin\Debug\BTTuan04.exe
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\bin\Debug\BTTuan04.pdb
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\obj\Debug\BTTuan04.csproj.AssemblyReference.cache
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\obj\Debug\BTTuan04.Form1.resources
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\obj\Debug\BTTuan04.Properties.Resources.resources
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\obj\Debug\BTTuan04.csproj.GenerateResource.cache
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\obj\Debug\BTTuan04.csproj.CoreCompileInputs.cache
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\obj\Debug\BTTuan04.exe
+C:\HUTECH\VSCode\BTTuan04\BTTuan04\obj\Debug\BTTuan04.pdb

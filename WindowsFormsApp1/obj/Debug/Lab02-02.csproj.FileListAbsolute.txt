@@ -1,0 +1,10 @@
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\obj\Debug\Lab02-02.csproj.AssemblyReference.cache
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\obj\Debug\Lab02-02.csproj.GenerateResource.cache
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\obj\Debug\Lab02-02.csproj.CoreCompileInputs.cache
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\HUTECH\VSCode\BTTuan04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
